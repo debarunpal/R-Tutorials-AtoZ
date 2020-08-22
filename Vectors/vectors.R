@@ -162,6 +162,7 @@ rep(1:3,length.out=7)
 
 print(x)
 
+# Setting a Vector to NULL
 x <- NULL
 
 print(x)
